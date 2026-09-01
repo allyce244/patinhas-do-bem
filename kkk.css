@@ -107,3 +107,15 @@ footer {
 footer p {
     color: #5A3D45;
 }
+
+/* FORMAS DE AJUDAR */
+
+.ajudar {
+    margin-top: 25px;
+}
+
+
+.ajudar ul {
+    padding-left: 20px;
+    line-height: 2;
+}
