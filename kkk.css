@@ -156,3 +156,23 @@ footer p {
 .animais article p {
     text-align: center;
 }
+
+/* destaque da pagina de doacoes */
+
+.destaque-doacoes {
+    background-color: #FCE8ED;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 25px;
+}
+
+.destaque-doacoes h2 {
+    font-size: 28px;
+}
+
+.destaque-doacoes p {
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+}
+
